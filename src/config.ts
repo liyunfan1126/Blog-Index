@@ -62,7 +62,7 @@ const GLOBAL_CONFIG = {
   /**
    * ICP 备案号，留空不显示
    */
-  ICP: "京ICP证000001号",
+  ICP: "",
   ICP_URL: "https://beian.miit.gov.cn/",
   FOOTER_INFO: true,
   /**
